@@ -10,7 +10,7 @@ O'Reilly Media, Inc.
 publication date:
 March 2021
 
-**Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang**
+**Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang**  
 by: Adam Freeman  
 published by: Apress  
 publication date: January 2022
