@@ -3,9 +3,9 @@
 First of all, I will collect. Later I will add categories and so on.
 
 **Learning Go**  
-by:  
+by:
 Jon Bodner
-published by:  
+published by:
 O'Reilly Media, Inc.  
-publication date:  
+publication date:
 March 2021
