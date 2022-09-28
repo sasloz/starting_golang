@@ -2,4 +2,4 @@
 
 ## T1x
 
-[Resources to learn and master Go](/Resources/README.md)
+[Resources to learn and master Go](Resources/README.md)
